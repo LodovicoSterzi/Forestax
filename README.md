@@ -6,6 +6,7 @@ Forestax is a fast, easy to use tool to assign bacterial taxonomy starting from 
   RecA is a reliable marker for bacterial taxonomy, even in the Candidate Phyla Radiation
 Lodovico Sterzi, Simona Panelli, Clara Bonaiti, Stella Papaleo, Giorgia Bettoni, Enza D’Auria, Gianvincenzo Zuccotti, Francesco Comandatore
 bioRxiv 2024.06.21.600076; doi: https://doi.org/10.1101/2024.06.21.600076
+[Diagram_1.pdf](https://github.com/user-attachments/files/19869649/Diagram_1.pdf)
 
 ## How to install Forestax
 Forestax is a Linux-based software. The tool is available for installation by conda or mamba (faster!).
