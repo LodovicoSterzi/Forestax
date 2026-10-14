@@ -46,7 +46,7 @@ Basic options:
   -tax, --tax_to_assign                Maximum taxonomic level to assign (default: genus)
   -u, --unclassified_threshold         The minimum percentag of confidence necessary to consider an assignment reliable (default: 50)
   -q, --quantify                       Use reads coverage to infer relative abundances of the taxa
-  -D, --include_comparison_to_reca_db Disable DIAMOND comparison against the curated database (default: True)
+  -D, --disable_comparison_to_reca_db  Disable DIAMOND comparison against the curated database (default: True)
 
 Advanced options:
   -E, --tool_to_extract                Extract RecA reads using kmc (faster) or bowtie2 (slower) (default: kmc)
